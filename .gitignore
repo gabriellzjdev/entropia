@@ -1,0 +1,22 @@
+# Build
+target/
+build/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# SO
+.DS_Store
+Thumbs.db
+
+# Segredos e ambiente
+.env
+.env.*
+*.pem
+*.key
+
+# Documentação pessoal de estudo (local apenas)
+.docs/
