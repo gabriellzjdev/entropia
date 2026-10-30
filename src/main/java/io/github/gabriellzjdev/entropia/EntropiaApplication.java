@@ -1,13 +1,13 @@
-package io.github.gabriellzjdev.entropia.generator;
+package io.github.gabriellzjdev.entropia;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GeneratorServiceApplication {
+public class EntropiaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GeneratorServiceApplication.class, args);
+		SpringApplication.run(EntropiaApplication.class, args);
 	}
 
 }

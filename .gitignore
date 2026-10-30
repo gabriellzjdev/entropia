@@ -20,3 +20,6 @@ Thumbs.db
 
 # Documentação pessoal de estudo (local apenas)
 .docs/
+
+# Maven Wrapper (baixado sob demanda)
+.mvn/wrapper/maven-wrapper.jar
